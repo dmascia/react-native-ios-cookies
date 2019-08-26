@@ -1,0 +1,28 @@
+
+{
+  "name": "react-native-ios-cookies",
+  "version": "1.0.0",
+  "description": "log all cookies from NSHTTPCookieStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "NSHTTPCookieStorage",
+    "ios cookies"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmascia/react-native-ios-cookies.git"
+  },
+  "author": "Dave Mascia <dmascia85@outlook.com",
+  "bugs": {
+    "url": "https://github.com/dmascia/react-native-ios-cookies/issues"
+  },
+  "homepage": "https://github.com/dmascia/react-native-ios-cookies#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
