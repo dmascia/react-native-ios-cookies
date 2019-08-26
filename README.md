@@ -25,7 +25,7 @@ Log each cookie from NSHTTPCookieStorage for IOS only.
 ```javascript
 import iosCookies from 'react-native-ios-cookies';
 
-RNIosCookies.getAllCookies()
+iosCookies.getAllCookies()
 	.then()
 	.catch();
 ```
